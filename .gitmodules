@@ -1,0 +1,54 @@
+[submodule "ctf473831530_2018_web_virink"]
+	path = ctf473831530_2018_web_virink
+	url = git@github.com:CTFTraining/ctf473831530_2018_web_virink.git
+[submodule "lctf_2018_bestphp_s_revenge"]
+	path = lctf_2018_bestphp_s_revenge
+	url = git@github.com:CTFTraining/lctf_2018_bestphp_s_revenge.git
+[submodule "sctf_2018_babysyc"]
+	path = sctf_2018_babysyc
+	url = git@github.com:CTFTraining/sctf_2018_babysyc.git
+[submodule "westerns_2018_shrine"]
+	path = westerns_2018_shrine
+	url = git@github.com:CTFTraining/westerns_2018_shrine.git
+[submodule "huwangbei_2018_easy_tornado"]
+	path = huwangbei_2018_easy_tornado
+	url = git@github.com:CTFTraining/huwangbei_2018_easy_tornado.git
+[submodule "huwangbei_2018_easy_laravel"]
+	path = huwangbei_2018_easy_laravel
+	url = git@github.com:CTFTraining/huwangbei_2018_easy_laravel.git
+[submodule "hctf_2018_warmup"]
+	path = hctf_2018_warmup
+	url = git@github.com:CTFTraining/hctf_2018_warmup.git
+[submodule "pwnhub_2017_open_weekday"]
+	path = pwnhub_2017_open_weekday
+	url = git@github.com:CTFTraining/pwnhub_2017_open_weekday.git
+[submodule "0ctf_2016_unserialize"]
+	path = 0ctf_2016_unserialize
+	url = git@github.com:CTFTraining/0ctf_2016_unserialize.git
+[submodule "34c3ctf_2017_urlstorage"]
+	path = 34c3ctf_2017_urlstorage
+	url = git@github.com:CTFTraining/34c3ctf_2017_urlstorage.git
+[submodule "hctf_2017_deserted_place"]
+	path = hctf_2017_deserted_place
+	url = git@github.com:CTFTraining/hctf_2017_deserted_place.git
+[submodule "xdctf_2015_filemanager"]
+	path = xdctf_2015_filemanager
+	url = git@github.com:CTFTraining/xdctf_2015_filemanager.git
+[submodule "hitcon_2017_ssrfme"]
+	path = hitcon_2017_ssrfme
+	url = git@github.com:CTFTraining/hitcon_2017_ssrfme.git
+[submodule "wdb_2018_unfinish"]
+	path = wdb_2018_unfinish
+	url = git@github.com:CTFTraining/wdb_2018_unfinish.git
+[submodule "wdb_2018_fakebook"]
+	path = wdb_2018_fakebook
+	url = git@github.com:CTFTraining/wdb_2018_fakebook.git
+[submodule "wdb_2018_comment"]
+	path = wdb_2018_comment
+	url = git@github.com:CTFTraining/wdb_2018_comment.git
+[submodule "hitcon_2016_leaking"]
+	path = hitcon_2016_leaking
+	url = git@github.com:CTFTraining/hitcon_2016_leaking.git
+[submodule "rwctf_2018_bookhub"]
+	path = rwctf_2018_bookhub
+	url = git@github.com:CTFTraining/rwctf_2018_bookhub.git

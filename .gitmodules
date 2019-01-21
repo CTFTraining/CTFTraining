@@ -52,3 +52,6 @@
 [submodule "rwctf_2018_bookhub"]
 	path = rwctf_2018_bookhub
 	url = git@github.com:CTFTraining/rwctf_2018_bookhub.git
+[submodule "insomniteaser_2019_l33t_hoster"]
+	path = insomniteaser_2019_l33t_hoster
+	url = git@github.com:CTFTraining/insomniteaser_2019_l33t_hoster.git

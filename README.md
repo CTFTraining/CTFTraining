@@ -2,9 +2,14 @@
 
 经典赛题复现平台
 
-## 环境说明
+## 环境说明 Explain
 
 题目环境采用 Docker 搭建
+
+## 致谢及贡献者 Credits & Contributor
+
+- [Tiaonmmn](https://github.com/Tiaonmmn)
+    + [InsomniTeaser_2019_l33t-hoster](https://github.com/Tiaonmmn/InsomniTeaser_2019_l33t-hoster)
 
 ## 版权说明
 

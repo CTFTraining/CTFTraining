@@ -55,3 +55,6 @@
 [submodule "insomniteaser_2019_l33t_hoster"]
 	path = insomniteaser_2019_l33t_hoster
 	url = git@github.com:CTFTraining/insomniteaser_2019_l33t_hoster.git
+[submodule "meepwn_2018_pycalx"]
+	path = meepwn_2018_pycalx
+	url = git@github.com:CTFTraining/meepwn_2018_pycalx.git

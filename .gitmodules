@@ -58,3 +58,6 @@
 [submodule "meepwn_2018_pycalx"]
 	path = meepwn_2018_pycalx
 	url = git@github.com:CTFTraining/meepwn_2018_pycalx.git
+[submodule "insomniteaser_2019_phuck2"]
+	path = insomniteaser_2019_phuck2
+	url = git@github.com:CTFTraining/insomniteaser_2019_phuck2.git

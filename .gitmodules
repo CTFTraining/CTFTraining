@@ -64,3 +64,9 @@
 [submodule "ddctf_2019_homebrew_event_loop"]
 	path = ddctf_2019_homebrew_event_loop
 	url = git@github.com:CTFTraining/ddctf_2019_homebrew_event_loop.git
+[submodule "starctf_2019_996game"]
+	path = starctf_2019_996game
+	url = git@github.com:CTFTraining/starctf_2019_996game.git
+[submodule "starctf_2019_echohub"]
+	path = starctf_2019_echohub
+	url = git@github.com:CTFTraining/starctf_2019_echohub.git

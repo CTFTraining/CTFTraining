@@ -61,3 +61,6 @@
 [submodule "insomniteaser_2019_phuck2"]
 	path = insomniteaser_2019_phuck2
 	url = git@github.com:CTFTraining/insomniteaser_2019_phuck2.git
+[submodule "ddctf_2019_homebrew_event_loop"]
+	path = ddctf_2019_homebrew_event_loop
+	url = git@github.com:CTFTraining/ddctf_2019_homebrew_event_loop.git

@@ -73,3 +73,6 @@
 [submodule "rctf_2019_nextphp"]
 	path = rctf_2019_nextphp
 	url = git@github.com:CTFTraining/rctf_2019_nextphp.git
+[submodule "rctf_2019_calcalcalc"]
+	path = rctf_2019_calcalcalc
+	url = git@github.com:CTFTraining/rctf_2019_calcalcalc.git

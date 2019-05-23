@@ -1,21 +1,42 @@
 # CTF Training
 
-经典赛题复现平台
+经典赛题复现环境
+
+I need your help!!!
+
+**QQ Group By Misc : MTA1NTIyNTgyMTkxNzI5ODYzNzEwNA==**
 
 ## 环境说明 Explain
 
-题目环境采用 Docker 搭建
+- docker-ce version 18.09+
+- docker-compose version 1.23+
 
-## 致谢及贡献者 Credits & Contributor
+### Installation
 
-- [Tiaonmmn](https://github.com/Tiaonmmn)
-    + [InsomniTeaser_2019_l33t-hoster](https://github.com/Tiaonmmn/InsomniTeaser_2019_l33t-hoster)
-    + [meepwn_2018_pycalx](https://github.com/Tiaonmmn/meepwn_2018_pycalx)
-    + [insomniteaser_2019_phuck2](https://github.com/Tiaonmmn/insomniteaser_2019_phuck2)
+```bash
+# Install pip
+curl -s https://bootstrap.pypa.io/get-pip.py | python3
+
+# Install the latest version docker
+curl -s https://get.docker.com/ | sh
+
+# Run docker service
+service docker start
+
+# Install docker compose
+pip install docker-compose
+```
 
 ## 版权说明
 
 项目内题目源码均从网络收集，如果侵权，请联系本人删除（ virink@outlook.com ）
+
+## 致谢及贡献者 Credits & Contributor
+
+- [Tiaonmmn](https://github.com/Tiaonmmn)
+    + [insomniteaser_2019_l33t_hoster](https://github.com/Tiaonmmn/insomniteaser_2019_l33t_hoster)
+    + [meepwn_2018_pycalx](https://github.com/Tiaonmmn/meepwn_2018_pycalx)
+    + [insomniteaser_2019_phuck2](https://github.com/Tiaonmmn/insomniteaser_2019_phuck2)
 
 ## 贡献指南 Contribution Guide
 

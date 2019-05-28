@@ -37,6 +37,9 @@ pip install docker-compose
     + [insomniteaser_2019_l33t_hoster](https://github.com/Tiaonmmn/insomniteaser_2019_l33t_hoster)
     + [meepwn_2018_pycalx](https://github.com/Tiaonmmn/meepwn_2018_pycalx)
     + [insomniteaser_2019_phuck2](https://github.com/Tiaonmmn/insomniteaser_2019_phuck2)
+- [glzjin](https://github.com/glzjin)
+    + [qwb_2019_upload](https://github.com/glzjin/qwb_2019_upload)
+    + [qwb_2019_supersqli](https://github.com/glzjin/qwb_2019_supersqli)
 
 ## 贡献指南 Contribution Guide
 

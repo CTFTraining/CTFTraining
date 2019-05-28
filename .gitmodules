@@ -76,3 +76,9 @@
 [submodule "rctf_2019_calcalcalc"]
 	path = rctf_2019_calcalcalc
 	url = git@github.com:CTFTraining/rctf_2019_calcalcalc.git
+[submodule "qwb_2019_upload"]
+	path = qwb_2019_upload
+	url = git@github.com:CTFTraining/qwb_2019_upload.git
+[submodule "qwb_2019_supersqli"]
+	path = qwb_2019_supersqli
+	url = git@github.com:CTFTraining/qwb_2019_supersqli

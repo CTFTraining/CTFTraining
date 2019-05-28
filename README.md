@@ -33,13 +33,18 @@ pip install docker-compose
 
 ## 致谢及贡献者 Credits & Contributor
 
+- [CoColi](https://github.com/CoColizdf)
+    + [hbctf_2017_dameixian](https://github.com/CTFTraining/hbctf_2017_dameixian)
+    + [hctf_2018_warmup](https://github.com/CTFTraining/hctf_2018_warmup)
 - [Tiaonmmn](https://github.com/Tiaonmmn)
     + [insomniteaser_2019_l33t_hoster](https://github.com/Tiaonmmn/insomniteaser_2019_l33t_hoster)
     + [meepwn_2018_pycalx](https://github.com/Tiaonmmn/meepwn_2018_pycalx)
     + [insomniteaser_2019_phuck2](https://github.com/Tiaonmmn/insomniteaser_2019_phuck2)
+    + [asis_2019_unicorn_shop](https://github.com/Tiaonmmn/asis_2019_unicorn_shop)
 - [glzjin](https://github.com/glzjin)
     + [qwb_2019_upload](https://github.com/glzjin/qwb_2019_upload)
     + [qwb_2019_supersqli](https://github.com/glzjin/qwb_2019_supersqli)
+    + [qwb_2019_smarthacker](https://github.com/glzjin/qwb_2019_smarthacker)
 
 ## 贡献指南 Contribution Guide
 

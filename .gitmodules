@@ -88,3 +88,6 @@
 [submodule "qwb_2019_smarthacker"]
 	path = qwb_2019_smarthacker
 	url = git@github.com:CTFTraining/qwb_2019_smarthacker.git
+[submodule "qwb_2019_crypto_copperstudy"]
+	path = qwb_2019_crypto_copperstudy
+	url = git@github.com:CTFTraining/qwb_2019_crypto_copperstudy.git

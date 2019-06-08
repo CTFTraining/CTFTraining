@@ -45,6 +45,10 @@ pip install docker-compose
     + [qwb_2019_upload](https://github.com/glzjin/qwb_2019_upload)
     + [qwb_2019_supersqli](https://github.com/glzjin/qwb_2019_supersqli)
     + [qwb_2019_smarthacker](https://github.com/glzjin/qwb_2019_smarthacker)
+- [blus](https://github.com/851579181)
+    + [qwb_2019_crypto_copperstudy](https://github.com/851579181/qwb_2019_crypto_copperstudy)
+
+
 
 ## 贡献指南 Contribution Guide
 

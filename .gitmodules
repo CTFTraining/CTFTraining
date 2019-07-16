@@ -91,3 +91,18 @@
 [submodule "qwb_2019_crypto_copperstudy"]
 	path = qwb_2019_crypto_copperstudy
 	url = git@github.com:CTFTraining/qwb_2019_crypto_copperstudy.git
+[submodule "ciscn_2019_web_northern_china_day1_web2"]
+	path = ciscn_2019_web_northern_china_day1_web2
+	url = git@github.com:CTFTraining/ciscn_2019_web_northern_china_day1_web2.git
+[submodule "ciscn_2019_web_northern_china_day2_web1"]
+	path = ciscn_2019_web_northern_china_day2_web1
+	url = git@github.com:CTFTraining/ciscn_2019_web_northern_china_day2_web1.git
+[submodule "ciscn_2019_web_northern_china_day1_web1"]
+	path = ciscn_2019_web_northern_china_day1_web1
+	url = git@github.com:CTFTraining/ciscn_2019_web_northern_china_day1_web1.git
+[submodule "buuctf_2018_online_tool"]
+	path = buuctf_2018_online_tool
+	url = git@github.com:CTFTraining/buuctf_2018_online_tool.git
+[submodule "fbctf_2019_products_manager"]
+	path = fbctf_2019_products_manager
+	url = git@github.com:CTFTraining/fbctf_2019_products_manager.git

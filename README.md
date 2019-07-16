@@ -4,8 +4,6 @@
 
 I need your help!!!
 
-**QQ Group By Misc : GJRTOMBSMU2DE**
-
 ## 环境说明 Explain
 
 - docker-ce version 18.09+
@@ -45,6 +43,11 @@ pip install docker-compose
     + [qwb_2019_upload](https://github.com/glzjin/qwb_2019_upload)
     + [qwb_2019_supersqli](https://github.com/glzjin/qwb_2019_supersqli)
     + [qwb_2019_smarthacker](https://github.com/glzjin/qwb_2019_smarthacker)
+    + [ciscn_2019_web_northern_china_day1_web1](https://github.com/glzjin/CISCN_2019_northern_China_day1_web1)
+    + [ciscn_2019_web_northern_china_day1_web2](https://github.com/glzjin/CISCN_2019_northern_China_day1_web2)
+    + [ciscn_2019_web_northern_china_day2_web1](https://github.com/glzjin/CISCN_2019_northern_China_day2_web1)
+    + [buuctf_2018_online_tool](https://github.com/glzjin/buuctf_2018_online_tool)
+    + [fbctf_2019_products_manager](https://github.com/glzjin/fbctf_2019_products_manager)
 - [blus](https://github.com/851579181)
     + [qwb_2019_crypto_copperstudy](https://github.com/851579181/qwb_2019_crypto_copperstudy)
 
@@ -56,9 +59,9 @@ pip install docker-compose
 
 #### Name Rules
 
-比赛名称_年份_题目名称_其他 GameName_Year_ChallengeName_Others `/\w+_\d{4}_\w+/`
+比赛名称_年份_题目类型_题目名称_其他 GameName_Year_ChallengeName_Others `/\w+_\d{4}_\w+_(\w+)+/`
 
-eg. `westerns_2018_shrine` and `ctf473831530_2018_web_virink`
+eg. `westerns_2018_web_shrine` and `ctf473831530_2018_web_virink`
 
 #### Description Rules
 

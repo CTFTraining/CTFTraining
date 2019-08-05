@@ -3,7 +3,7 @@ name: New Challenge
 about: New Challenge Request
 title: New Challenge <Challenge Name>
 labels: ''
-assignees: virink
+assignees: glzjin, virink
 
 ---
 

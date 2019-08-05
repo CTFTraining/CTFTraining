@@ -3,7 +3,7 @@ name: Request Challenge
 about: Request Challenge <Challenge Name>
 title: Request Challenge <Challenge Name>
 labels: Source Code
-assignees: glzjin, virink, Tiaonmmn, ShadowGlint, CoColizdf
+assignees: glzjin, virink, Tiaonmmn, CoColizdf
 
 ---
 

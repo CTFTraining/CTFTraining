@@ -105,4 +105,4 @@
 	url = https://github.com/CTFTraining/buuctf_2018_online_tool.git
 [submodule "fbctf_2019_products_manager"]
 	path = fbctf_2019_products_manager
-	url = git@github.com:CTFTraining/fbctf_2019_products_manager.git
+	url = https://github.com/CTFTraining/fbctf_2019_products_manager.git
